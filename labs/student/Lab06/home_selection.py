@@ -17,6 +17,7 @@ def assess_scene(scene, max_cloud):
         return "CLOUDY"
     else:
         return "ELIGIBLE"
+        
 
 
 def choose_scenes(records, max_cloud, max_size_mb):

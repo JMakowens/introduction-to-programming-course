@@ -11,7 +11,7 @@ The supplied classifier uses the same rules you implemented in A2, so you can co
 From a terminal in this folder, execute:
 
 ```bash
-python scene_report.py
+    python scene_report.py
 ```
 
 The initial script loads eight records but creates an empty report and three zero counts. Those are the visible effects of the unfinished functions. Running without an exception is not enough to complete the task.
